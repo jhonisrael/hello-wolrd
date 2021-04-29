@@ -1,7 +1,8 @@
 # hello-wolrd
-meu repositorio
+## quem sou eu:
 sou um apaixonado por tecnologia 
-gosto de musica 
-tocar piano
-amo quebrar a cabeça (não literalmente rs)
-minha familia é a minha base de vida
+amo o mundo musical
+toco piano
+amo resolver prolemas
+Familia é a minha base de vida
+cultura nerd é comigo mesmo rs
